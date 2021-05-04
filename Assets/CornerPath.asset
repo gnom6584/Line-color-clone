@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a256207bdf7b4fcd822311d7a46f74eb, type: 3}
+  m_Name: CornerPath
+  m_EditorClassIdentifier: 
+  _points:
+  - Position: {x: 14.05, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 14.735416, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 15.420835, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 16.10625, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 16.791666, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 17.477083, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 18.1625, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 18.847916, y: -1.25, z: -7.5000005}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 19.533333, y: -1.25, z: -7.4999995}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 20.21875, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 20.904167, y: -1.25, z: -7.5000005}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 21.589584, y: -1.25, z: -7.4999995}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 22.275, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 22.960417, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 23.645832, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 24.33125, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 25.016666, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 25.702084, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 26.3875, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 27.072918, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 27.758333, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 28.44375, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 29.129168, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 29.814583, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 30.5, y: -1.25, z: -7.5}
+    Scale: {x: 1, y: 1}

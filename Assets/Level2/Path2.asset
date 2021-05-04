@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a256207bdf7b4fcd822311d7a46f74eb, type: 3}
+  m_Name: Path2
+  m_EditorClassIdentifier: 
+  _points:
+  - Position: {x: 1, y: 0, z: -1}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -1.375}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -1.75}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -2.125}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -2.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -2.875}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -3.25}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -3.625}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -4}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -4.375}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -4.75}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -5.125}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -5.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -5.8750005}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -6.2499995}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -6.625}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -7.0000005}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -7.3749995}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -7.75}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -8.125}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -8.5}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -8.875}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -9.25}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -9.625}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1, y: 0, z: -10}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1.0265841, y: 0, z: -10.479166}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1.1032988, y: 0, z: -10.916666}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1.2255859, y: 0, z: -11.3125}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1.3888888, y: 0, z: -11.666666}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1.5886502, y: 0, z: -11.979167}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 1.8203125, y: 0, z: -12.25}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 2.0793185, y: 0, z: -12.479168}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 2.3611112, y: 0, z: -12.666666}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 2.6611328, y: 0, z: -12.8125}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 2.9748263, y: 0, z: -12.916667}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 3.2976346, y: 0, z: -12.979166}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 3.625, y: 0, z: -13}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 3.9523656, y: 0, z: -12.979167}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 4.2751737, y: 0, z: -12.916666}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 4.588867, y: 0, z: -12.8125}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 4.8888893, y: 0, z: -12.666667}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 5.170681, y: 0, z: -12.479167}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 5.4296875, y: 0, z: -12.25}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 5.6613503, y: 0, z: -11.979167}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 5.8611107, y: 0, z: -11.666666}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 6.024414, y: 0, z: -11.3125}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 6.1467013, y: 0, z: -10.916666}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 6.223416, y: 0, z: -10.479167}
+    Scale: {x: 1, y: 1}
+  - Position: {x: 6.25, y: 0, z: -10}
+    Scale: {x: 1, y: 1}
